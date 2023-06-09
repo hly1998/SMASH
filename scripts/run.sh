@@ -1,0 +1,1 @@
+python train.py -g 2 -d ng20.tfidf -b 10  --num_epochs 500
